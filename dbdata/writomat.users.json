@@ -1,0 +1,10 @@
+[{
+  "_id": "ronnie@gmail.com",
+  "nickname": "Ronnie",
+  "category": "Business",
+  "bio": "I am a businessman and owner of Ronnie's Electricals Pvt. Ltd.",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "_class": "dashboard.springback.api.models.User"
+}]
